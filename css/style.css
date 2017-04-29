@@ -1,0 +1,72 @@
+body {
+    background-color: white;
+    font-family: "Roboto", sans-serif;
+	font-size: 12px;
+	line-height: 16px;
+	color: #000;
+    }
+
+.logo {
+	width:206;
+	height:40;
+	margin-top:15%;
+	background-color: #efefef;
+	padding:6px;
+}
+
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  text-align: center;
+}
+.fright {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  text-align: right;
+  color:black;
+}
+.btn {
+	border: 1px solid #6d6f70;
+	height:18px;
+	width:80px;
+	display:block;
+	margin:12px;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+li{
+	display: inline;
+}
+li a {
+    color:black;
+    text-align: center;
+    padding: 8px 10px;
+    text-decoration: none;
+}
+
+.active {
+    text-decoration:underline;
+}
+.dark {
+  background-color:black;
+  color:white;
+}
+.social {
+  color:black;
+  font-size:21px;
+  padding-top:8px;
+  padding-right:3px;
+  padding-left:3px;
+}
